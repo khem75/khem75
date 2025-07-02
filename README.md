@@ -28,9 +28,7 @@
   <a href="https://www.youtube.com/@thekhem" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href=["https://fb.com/khem.joshi.5"](https://www.facebook.com/KHEM.JOSHI.11) target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
+ 
 </p>
 
 ---
