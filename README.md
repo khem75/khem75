@@ -14,7 +14,7 @@
 - 🌱 Currently learning: React, MongoDB, and TensorFlow
 - ⚡ Fun fact: I love designing UIs as much as writing code
 
----
+--
 
 ### 🌐 Connect with Me
 
