@@ -1,18 +1,17 @@
 <h1 align="center">👋 Hi, I'm Khem Raj Joshi</h1>
-<h3 align="center">Frontend Developer | UI/UX Enthusiast | AI & DS Student</h3>
+<h3 align="center">Data Analyst | Power BI Enthusiast | AI & DS Student</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=khem75&label=Profile%20views&color=blue&style=flat-square" alt="profile views" />
 </p>
 
-
-
 ### 👨‍💻 About Me
 
-- 🎓 BCA (AI & Data Science) student at Graphic Era University
-- 💻 Frontend Developer passionate about clean design & intuitive UX
-- 🌱 Currently learning: React, MongoDB, and TensorFlow
-- ⚡ Fun fact: I love designing UIs as much as writing code
+* 🎓 BCA (AI & Data Science) student at Graphic Era University
+* 📊 Data Analyst passionate about transforming raw data into meaningful insights
+* 📈 Skilled in Power BI, SQL, Python, Data Visualization, and Business Intelligence
+* 🌱 Currently learning: Advanced Power BI, Machine Learning, and Data Engineering
+* ⚡ Fun fact: I enjoy discovering trends and patterns in data as much as solving real-world problems
 
 --
 
@@ -28,7 +27,7 @@
   <a href="https://www.youtube.com/@thekhem" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
- 
+
 </p>
 
 ---
@@ -53,7 +52,7 @@
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 </p>
 
 ---
@@ -74,12 +73,12 @@
 
 ---
 
-### 🎯 2025 Goals
+### 🎯 2026 Goals
 
-- 🌐 Build & deploy my personal portfolio site
-- 🤖 Explore AI & ML in real-world projects
-- 🎮 Build a mini-game in Unity or Unreal
-- 🎥 Start uploading frontend + AI tutorials on YouTube
+* 📊 Secure a Data Analyst Internship
+* 📈 Build Advanced Power BI Dashboards
+* 🤖 Explore AI & ML in Real-World Projects
+* 🗄️ Master SQL and Data Analytics
+* 🎥 Start sharing Data Analytics and AI content on YouTube
 
 ---
-
