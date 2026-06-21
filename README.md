@@ -24,9 +24,7 @@
   <a href="https://instagram.com/khemjoshi10_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.youtube.com/@thekhem" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
+  
 
 </p>
 
