@@ -13,20 +13,32 @@
 * 🌱 Currently learning: Advanced Power BI, Machine Learning, and Data Engineering
 * ⚡ Fun fact: I enjoy discovering trends and patterns in data as much as solving real-world problems
 
---
+---
 
 ### 🌐 Connect with Me
 
-<p>
+<p align="left">
   <a href="https://linkedin.com/in/khem-joshi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
+
   <a href="https://instagram.com/khemjoshi10_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  
 
+  <a href="https://wa.me/917217240919" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
 </p>
+
+---
+
+### 📱 Contact Me
+
+- 📧 Email: khemj421@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/khem-joshi
+- 📸 Instagram: @khemjoshi10_
+- 💬 WhatsApp: +91 7217240919
 
 ---
 
@@ -36,20 +48,8 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 </p>
 
@@ -78,5 +78,3 @@
 * 🤖 Explore AI & ML in Real-World Projects
 * 🗄️ Master SQL and Data Analytics
 * 🎥 Start sharing Data Analytics and AI content on YouTube
-
----
